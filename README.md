@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jest Unit Testing<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Node Js<br>💬 Ask me about React Hooks<br>⚡ Fun fact I love anime and video games
+🔭 I’m currently working on Jest Unit Testing<br>👯 I’m looking to collaborate on any interresting project<br>🌱 I’m currently learning Node Js<br>💬 Ask me about React Hooks<br>⚡ Fun fact I love anime and video games
 
 
 ## 🌐 Socials:
