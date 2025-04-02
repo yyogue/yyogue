@@ -74,3 +74,7 @@
 
 ![Visitor Badge](https://visitcount.itsvg.in/api?id=yyogue&label=Visitors&color=1&icon=0&pretty=true)  
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yyogue&color=blue)
+
