@@ -1,18 +1,30 @@
-# 💫 About Me
-🌱 Currently learning **AWS, FastAPI, and Microservices**  
-👨‍💻 Passionate about **AI/ML and scalable systems**  
-🎮 Fun Fact: **I love anime and gaming**  
+# 👋 Hey, I'm Youssouf Yogue!
+💻 Full-Stack Developer | ☁️ Cloud Enthusiast |  Tech Founder  
+
+I’m passionate about building scalable software, crafting intuitive user experiences, and empowering African innovation through technology.  
+Currently focused on **AWS, FastAPI, and microservices**, and building solutions that connect people — from real estate to logistics.
+
+---
+
+## 🌍 My Vision
+Empowering local businesses and communities in Africa through modern, accessible technology —  
+from real estate (**[Congo Ndaku](https://www.congondaku.com/)** ) to logistics (**CongoCar** ) to software innovation (**[YogueService](https://yogueservice.com)** ).
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssouf-yogue/)  
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-%23000000.svg?style=for-the-badge)](https://www.congondaku.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssouf-yogue/)
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-%23000000.svg?style=for-the-badge)](https://yogueservice.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yousyogued)
 
 ---
 
 ## 📌 Pinned Projects
-🔹 **[Congo Ndaku](https://www.congondaku.com/)** – A real estate platform built with the **MERN stack**, fully deployed on **AWS**
+🔹 **[YogueService](https://yogueservice.com/)** – Software agency building tailored solutions for startups & enterprises  
+🔹 **[Congo Ndaku](https://www.congondaku.com/)** – Real estate platform built with **MERN**, deployed on **AWS**  
+🔹 **CongoCar** – Vehicle listing and rental service (under development)  
+🔹 **HackJam 2025 (🏆 1st Place)** – MERN + AI mentorship app recognized for innovation and teamwork  
+
 ---
 
 ## 🚀 Tech Stack
@@ -51,10 +63,26 @@
 
 ---
 
+## 💼 Experience Highlights
+🧑‍💻 **Software Engineer** @ American Express – React, Node.js, CI/CD  
+🔧 **IT Diagnostic Technician** @ Jabil Inc. – Data automation & diagnostics  
+🌍 **Founder** @ [Congo Ndaku](https://www.congondaku.com/) | [YogueService](https://yogueservice.com) | CongoCar  
+🏆 **HackJam 2025 Winner** – Built AI-powered mentorship platform  
+
+---
+
+## 📚 Learning Journey
+🟩 AWS & Cloud Architecture  
+🟩 FastAPI & Python Microservices  
+🟨 Machine Learning (TensorFlow, PyTorch)  
+⬜️ Kubernetes (Next Goal 🚀)
+
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yyogue&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yyogue&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyogue&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyogue&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -68,13 +96,11 @@
 
 ---
 
-## ☕ Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yousyogued)
+### 💬 Let's Build Together!
+Whether it's a SaaS startup, mobile app, or a cloud-native system —  
+I’m always open to **collaboration, mentorship, and new opportunities**.
 
----
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+📩 Reach me at **yousyogue@gmail.com**
 
 ---
 
