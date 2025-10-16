@@ -1,7 +1,6 @@
-# 💫 About Me:
-🚀 I’m currently working on **React Native & Full-Stack Development**  
-🌱 Learning **AWS, GraphQL, and Microservices**  
-👨‍💻 Passionate about **building scalable web & mobile apps**  
+# 💫 About Me: 
+🌱 Learning **AWS, FastAPI, and Microservices**  
+👨‍💻 Passionate about **AI/ML**  
 🎮 Fun Fact: **I play video games and love anime**  
 
 ---
@@ -14,9 +13,7 @@
 ---
 
 ## 📌 Pinned Projects:
-🔹 **[WhatsApp Clone](https://github.com/yyogue/whatsapp-clone)** - A real-time chat app with Firebase  
-🔹 **[Employee Management System](https://github.com/yyogue/employee-management)** - Secure admin control for companies  
-🔹 **[React Native App](https://github.com/yyogue/my-mobile-app)** - Mobile app built with React Native  
+🔹 **[Congo Ndaku](https://www.congondaku.com/)** - A real Estate build with MERN tech and deployed in AWS  
 
 ---
 
@@ -32,6 +29,7 @@
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
